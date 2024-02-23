@@ -14,3 +14,4 @@ accountCity="Muzaffarpur"
  console.table([accountId, accountEmail, accountPassword,accountCity, accountState])
 
  /* in JS we can create variables using let and var but prefer way is not use the var variable because of issue in block scope and functional scope. */
+//
