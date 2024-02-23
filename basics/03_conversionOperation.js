@@ -1,3 +1,5 @@
+// conversion in JS how we can convert datatypes to anothet datatypes. 
+
 // convert number to string
 
 let score1 = 33
